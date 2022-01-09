@@ -1,0 +1,35 @@
+[
+    {
+        "image": "Aft",
+        "English":"Aft",
+        "French":"Arriere",
+        "Spanish":"A popa",
+        "Italian":"A poppa",
+        "EnglishDefinition":"",
+        "FrenchDefinition":"",
+        "SpanishDefinition":"",
+        "ItalianDefinition":""
+    },
+    {
+        "image": "Anchor",
+        "English":"Anchor",
+        "French":"Ancre",
+        "Spanish":"Ancla",
+        "Italian":"Ancora",
+        "EnglishDefinition":"",
+        "FrenchDefinition":"",
+        "SpanishDefinition":"",
+        "ItalianDefinition":""
+    },
+    {
+        "image": "Asymmetric",
+        "English":"Asymmetric",
+        "French":"Asymetrique",
+        "Spanish":"Asimetrico",
+        "Italian":"Asimmetrico",
+        "EnglishDefinition":"",
+        "FrenchDefinition":"",
+        "SpanishDefinition":"",
+        "ItalianDefinition":""
+    }
+]
